@@ -4,7 +4,7 @@
 
 <p align="center"> <a href="https://github.com/Aleeproia"><img src="https://github-profile-trophy.vercel.app/?username=Aleeproia&ryo-ma&no-bg=true&row=1&column=6&theme=algolia" alt="Aleeproia" /></a> </p>
 
-<p align="left">
+<p align="center">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
