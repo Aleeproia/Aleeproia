@@ -1,7 +1,6 @@
 <h1 align="center">Hola,soy Alejandro Proia</h1>
 <h3 align="center">Estudiante de Licenciatura en Sistemas - UNLP</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
