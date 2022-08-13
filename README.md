@@ -2,7 +2,7 @@
 <h3 align="center">Estudiante de Licenciatura en Sistemas - UNLP</h3>
 
 
-<p align="center"> <a href="https://github.com/luciasoraire"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia" alt="luciasoraire" /></a> </p>
+<p align="center"> <a href="https://github.com/luciasoraire"><img src="https://github-profile-trophy.vercel.app/?username=luciasoraire&ryo-ma&no-bg=true&row=1&column=6&theme=tokyonight" alt="luciasoraire" /></a> </p>
 
 <p align="left">
 </p>
