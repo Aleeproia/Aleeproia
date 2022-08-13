@@ -1,6 +1,8 @@
 <h1 align="center">Hola,soy Alejandro Proia</h1>
 <h3 align="center">Estudiante de Licenciatura en Sistemas - UNLP</h3>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)
+
 <p align="left">
 </p>
 
