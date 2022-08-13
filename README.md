@@ -1,4 +1,4 @@
-<h1 align="center">Hola,soy Alejandro Proia</h1>
+<h1 align="center">Hola, soy Alejandro Proia</h1>
 <h3 align="center">Estudiante de Licenciatura en Sistemas - UNLP</h3>
 
 
