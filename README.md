@@ -8,7 +8,7 @@
 </p>
 
 
-| ![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleeproia&show_icons=true&theme=react&bg_color=0d1117) | ![Abdul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aleeproia&theme=react&bg_color=0d1117) |
+| ![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleeproia&show_icons=true&theme=react&bg_color=0d1117) | ![Abdul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aleeproia&show_icons=true&theme=react&bg_color=0d1117)) |
 | :---: | :---: |
 
 
