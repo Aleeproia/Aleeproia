@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Alejandro Proia</h1>
 <h3 align="center">Estudiante de Licenciatura en Sistemas - UNLP</h3>
 
-<img align="center" src="https://i.pinimg.com/originals/a4/51/39/a451393c169a91586312551109361064.gif" alt="aleeproia" width="100%"/>
+<img align="center" src="https://media.giphy.com/media/thN5ScHJfaj1JH6f6d/giphy.gif" alt="aleeproia" width="100%"/>
 
 
 <p align="center"> <a href="https://github.com/Aleeproia"><img src="https://github-profile-trophy.vercel.app/?username=Aleeproia&ryo-ma&no-bg=true&row=1&column=6&theme=algolia" alt="Aleeproia" /></a> </p>
