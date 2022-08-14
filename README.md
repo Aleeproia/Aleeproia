@@ -1,8 +1,9 @@
-<img align="center" src="https://im3.ezgif.com/tmp/ezgif-3-0921152e32.gif" alt="aleeproia" width="100%"/>
 
 
 
 <p align="center"> <a href="https://github.com/Aleeproia"><img src="https://github-profile-trophy.vercel.app/?username=Aleeproia&ryo-ma&no-bg=true&row=1&column=6&theme=algolia" alt="Aleeproia" /></a> </p>
+
+<img align="center" src="https://im3.ezgif.com/tmp/ezgif-3-0921152e32.gif" alt="aleeproia" width="100%"/>
 
 <p align="center">
 </p>
