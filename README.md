@@ -15,7 +15,7 @@
   <br/>
 
 
-| ![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabdul88&show_icons=true&theme=react) | ![Abdul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fabdul88&theme=city-lights) |
+| ![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleeproia&show_icons=true&theme=react) | ![Abdul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aleeproia&theme=react) |
 | :---: | :---: |
 
 
