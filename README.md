@@ -17,6 +17,9 @@
 <br/>
 
 
+| ![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabdul88&show_icons=true&theme=city_lights) | ![Abdul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fabdul88&theme=city-lights) |
+| :---: | :---: |
+
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aleeproia&theme=react-dark)
