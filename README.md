@@ -1,6 +1,3 @@
-<h1 align="center">Hola, soy Alejandro Proia</h1>
-<h3 align="center">Estudiante de Licenciatura en Sistemas - UNLP</h3>
-
 <img align="center" src="https://media.giphy.com/media/thN5ScHJfaj1JH6f6d/giphy.gif" alt="aleeproia" width="100%"/>
 
 
