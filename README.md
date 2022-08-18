@@ -1,5 +1,3 @@
-<img align="center" src="https://im3.ezgif.com/tmp/ezgif-3-0921152e32.gif" alt="aleeproia" width="100%"/>
-
 <p align="center">
 </p>
 
